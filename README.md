@@ -16,7 +16,7 @@ A simple Snake Game built using HTML, CSS, and JavaScript.
 - Don't hit the wall or yourself!
 
 ## 📂 Project Structure
-
+<pre>```
 SnakeGameH/
 ├── index.html
 ├── style.css
@@ -26,7 +26,7 @@ SnakeGameH/
 │ ├── gameover.mp3
 │ ├── move.mp3
 │ └── music.mp3
-└── README.md
+└── README.md```</pre>
 
 ## 📸 Screenshot
 
